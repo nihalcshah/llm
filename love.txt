@@ -1,0 +1,9 @@
+Love is difficult; it requires persistence, commitment, and communication.
+Yet, the rewards are profound and thrilling.
+	The same goes for coding.
+“How many students still have pending submissions for the Neural Networks and Backpropagation lab?”
+Dr. Gabor’s voice boomed, and I felt a mix of shame and excitement.
+	Deciding not to waste time sitting around, I jumped into the lab. As my laptop hummed, I began formulating my plan of attack. I tried to outline a structure for my code, but I couldn’t connect the dots. 
+As I took a step back and started to methodically examine the code, I stumbled upon a key erroneous assumption. Suddenly, the algorithm wove itself together and rippled across the screen as my lab shone through.
+	I feel the true ecstasy of computer science in such moments. The process of analytical thinking and inventively stitching my program together enchants me. Syntax glitch? bliss. A logic error? utopia.
+It is in this love for coding that I find my purpose, this love that inspires me to spend the rest of my life as a software engineer. The reason why I’m pursuing jobs in this field isn’t for money, or job stability, or even ease of work. No, it extends beyond that. It’s because despite the ever-changing job market, despite the difficulty of breaking into tech right now, being a programmer is the only thing I want to be. Love is difficult, but it was never very hard for me to love computer science.
