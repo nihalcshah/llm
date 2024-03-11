@@ -1,0 +1,30 @@
+Georgia Tech
+
+Why do you want to study your chosen major specifically at Georgia Tech? (300 words)
+Love is difficult; it requires persistence, commitment, and communication.
+Yet, the rewards are profound and thrilling.
+	The same goes for coding.
+“How many students still have pending submissions for the Neural Networks and Backpropagation lab?”
+Dr. Gabor’s voice boomed, and I felt a mix of shame and excitement.
+	Deciding not to waste time sitting around, I jumped into the lab. As my laptop hummed, I began formulating my plan of attack.  The lab was about implementing a neural network from scratch, using only basic mathematical operations and data structures. I tried to outline a structure for my code, but I couldn’t connect the dots. 
+As I took a step back and started to methodically examine the code, I stumbled upon a key erroneous assumption. Suddenly, the algorithm wove itself together and rippled across the screen as my lab shone through. The networks whispered to me, data dancing on my left shoulder, enchanting me with ideas to complete the lab. I was able to assemble a model as the rhythm of discovery burned on.
+	I feel the true ecstasy of computer science in such moments. The process of analytical thinking and inventively stitching my program together enchants me. Syntax glitch? bliss. A logic error? utopia.
+It is in this love for coding that I find my purpose, this love that inspires me to spend the rest of my life as a software engineer. The reason why I’m pursuing jobs in this field isn’t for money, or job stability, or even ease of work. No, it extends beyond that. It’s because despite the ever-changing job market, despite the difficulty of breaking into tech right now, being a programmer is the only thing I want to be. Love is difficult, but it was never very hard for me to love computer science.
+
+Georgia Tech's Strategic Plan outlines nine distinct Institute values. Select one from the drop-down list below and discuss how your past experiences have prepared you to contribute to our community. (300 words)
+We safeguard freedom of inquiry and expression.
+
+Doors are so important, because no one likes talking to a wall. Yet, that’s what happens at my family’s dining table. My uncle was amidst a diatribe about a company that hired members of a certain background, and was voicing his discontent. The topic starts as a joke, but it always spirals… and then the yelling starts. This disagreement stemmed from a divergence in morals and experience. It was my uncle, a realist, his opinion based on the cases he’s seen over 50 years. It was me, an idealist, adhering to my values.
+	Often, the root of an issue isn’t simply the “what”, or the opinion. To truly understand the issue, it's most important to acknowledge the “why”. This has shown up in disagreements time and time again in my life, but it is surprisingly even visible in my research! I have spent a large amount of time analyzing and extracting sentiment from text through Natural Language Processing for the purpose of stance analysis and bias detection. However, even in clearly written news articles, it is difficult to extract the rationale behind a viewpoint. This leads to the detection of polarization, even though two viewpoints may not be diametrically opposed. 
+When my uncle and I were able to acknowledge the difference in our backgrounds and experiences, we unearthed the crux of the issue, even though we were split for so much of our disagreement. We got a better understanding of why we had the viewpoints, and how our individual circumstances impacted our outlook. If we can take a step back in today’s heavily polarized landscape, and simply try to look past the “what” and examine the “why” by allowing free expression, we can open the door to understanding each other’s viewpoint. 
+
+UMD
+
+TJ: one of the nation’s top schools, and a place where I grew academically and developed myself around peers with a penchant for scientific discovery and research. This environment spawned forth new adventures. It was the continuous challenge, the continuous drive shared by students that made it a school of a joint mind.
+I pined for a similar environment at Penn State, searching for the drive to challenge myself by finding an environment of researchers that worked in the same way. I jumped into a project in the field of Natural Language Processing, or NLP. I wanted to explore the process of sentiment and bias analysis in long-form news media. Night after night, language models whispered to me, enchanting me with ideas. I assembled a model, but as I reached the edge of my knowledge, it became a cliff: where to go in this vast expanse?
+I relied on my mentors and researchers in my former workspaces. I reached out, but they were unable to help. I reached out to professors at Penn State, but they were unavailable or unqualified. The number of NLP-educated professors at Penn State was too small. But this isn’t the case at UMD. UMD’s interdisciplinary approach to NLP and Professor Philip Resnik’s work on text analysis align heavily with my project. Through the process of transfer, I hope to expose myself to more work in his area of expertise.
+I realized how crucial and rare it was to find connections and help on research like mine. A university is the place to go for that. Why do I want to transfer? It’s a means to an end. I need an environment of people that can push me, propel me towards the right path of exploration, the echoes of my passion for research propelling me. 
+
+Documentation
+
+I worked as a data science intern and created a Natural Language Processing framework for use in projects with the US Dept. of Defense and the US Dept. of Education. The specific project was creating an engine high-detail sentiment extraction with the use of transformers and Google BERT. I used AWS frameworks extensively, such as EC2 and Sagemaker for computation, and S3 for data management. My training was performed on a data size of 5 million tweets.
